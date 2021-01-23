@@ -1,0 +1,24 @@
+site_name: タイムリーバドミントンクラブ
+
+theme:
+  name: material
+  language: 'ja'
+  logo: assets/logo.png
+  feature:
+    tabs: true
+
+markdown_extensions:
+  - admonition
+
+markdown_extensions:
+  - admonition
+  - fontawesome_markdown
+extra_css:
+    - https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    - "css/custom.css"
+
+pages:
+  - Home: index.md
+  - ニュース : news.md
+  - リンク: links.md
+  - 練習風景: practice_image.md
