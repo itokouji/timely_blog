@@ -1,0 +1,30 @@
+.md-typeset h1 {
+    font-weight: bold;
+    color: #000;
+    border-bottom: solid 2px #f18b21;
+    padding-bottom: 5px;
+}
+/*
+.md-typeset h1::before{
+  content: '';
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-image: url(../images/favicon.ico);
+  background-size: contain;
+  vertical-align: middle;
+  padding-right: 10px;
+}
+*/
+
+.md-typeset h2 {
+    border-bottom: 1px dotted #888;
+}
+
+.md-typeset h2::before {
+    display: inline-block !important;
+    font-family: "FontAwesome";
+/*    content: "\f00c" !important; */
+    content: "\f00c" !important; */
+    margin-right: .3em;
+}
