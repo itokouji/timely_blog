@@ -17,7 +17,7 @@ extra_css:
     - https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
     - "css/custom.css"
 
-pages:
+navs:
   - Home: index.md
   - ニュース : news.md
   - リンク: links.md
