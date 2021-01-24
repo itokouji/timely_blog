@@ -19,6 +19,7 @@ extra_css:
 
 nav:
   - Home: index.md
+  - About : about.md
   - ニュース : news.md
   - リンク: links.md
   - 練習風景: practice_image.md
