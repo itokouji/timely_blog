@@ -18,8 +18,8 @@ extra_css:
     - "css/custom.css"
 
 nav:
-  - Home: index.md
-  - About : about.md
+  - ホーム : index.md
+  - クラブについて : about.md
   - ニュース : news.md
   - リンク: links.md
   - 練習風景: practice_image.md
