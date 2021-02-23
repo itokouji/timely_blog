@@ -1,4 +1,7 @@
-
+---
+hide:
+  - navigation
+---
 # クラブについて
 
 <img src ="../images/timely-all.jpg">

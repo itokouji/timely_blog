@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # リンク
 
 [鷺沼バドミントンクラブ](http://saginumabad.aikotoba.jp/)  
