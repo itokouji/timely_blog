@@ -6,6 +6,7 @@ nav:
   - ニュース : news.md
   - リンク: links.md
   - 練習風景: practice_image.md
+  - スケジュール: schedule.md
 
 theme:
   name: material
