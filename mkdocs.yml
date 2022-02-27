@@ -16,6 +16,8 @@ theme:
     primary: indigo
   features:
     - navigation.tabs
+  analytics:
+    gtag: G-Q1R9PE91JZ
 
 markdown_extensions:
   - admonition
@@ -27,7 +29,3 @@ markdown_extensions:
 extra_css:
     - https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
     - "css/custom.css"
-
-google_analytics:
-  - UA-188463905-1
-  - auto
