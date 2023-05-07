@@ -7,6 +7,7 @@ nav:
   - リンク: links.md
   - 練習風景: practice_image.md
   - スケジュール: schedule.md
+  - 予約確認: reserve_inagi.md
 
 theme:
   name: material
