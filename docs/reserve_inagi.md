@@ -4,7 +4,7 @@ hide:
 ---
 # 予約の確認方法
 
-* [このページを押す](https://www2.pf489.com/inagi/WebR/Home/WgR_ModeSelect)
+* [ここを押す](https://www2.pf489.com/inagi/WebR/Home/WgR_ModeSelect)
 
 * 赤枠のボタンを押す   
 <img src="../images/screen/screen_20230507_01.png">
