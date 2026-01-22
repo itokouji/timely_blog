@@ -20,7 +20,6 @@ theme:
 
 markdown_extensions:
   - admonition
-  - fontawesome_markdown
   - meta
   - toc:
       toc_depth: 0
