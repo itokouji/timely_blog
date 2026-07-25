@@ -8,6 +8,6 @@ hide:
 </br>
 
 !!! お知らせ
-    2026年07月の練習スケジュールを追加しました。<br>
-    <span style="color: red; ">7月はすべて練習があります！</span><br>
+    2026年08月の練習スケジュールを追加しました。<br>
+    <span style="color: red; ">8/14はお休みです</span><br>
     詳しくは、[スケジュール](./schedule.md)をご覧ください。<br>
