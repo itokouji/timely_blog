@@ -9,5 +9,5 @@ hide:
 
 !!! お知らせ
     2026年12月の練習スケジュールを追加しました。<br>
-    <span style="color: red; ">11/20は練習がありませんのでご注意を!</span><br>
+    <span style="color: red; ">12/25は練習がありませんのでご注意を!</span><br>
     詳しくは、[スケジュール](./schedule.md)をご覧ください。<br>
